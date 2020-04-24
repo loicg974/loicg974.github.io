@@ -1,0 +1,133 @@
+header{
+	padding-left: 400px;
+	background-color: #000;
+	font-size: 30px;
+	color: #FFF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+
+
+}
+nav.menu-nav ul li.btn a{
+	color: #fff;
+	text-decoration: none;
+	background-color: #000;
+	padding:10px;
+	margin-left: 15px
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #000;
+	background-color:#fff;
+	transition: 0.3s all
+}
+
+h1.programmation{
+	margin-left: 400px;
+	margin-top: 50px;
+}
+
+p.codage{
+	margin-left: 10px;
+	font-size: 20px
+}
+p.html{
+	margin-left: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+div#contenu div{
+	display: inline-block;
+	width: 48%;}
+
+div#contenu div.leftbox{
+	vertical-align: top;
+
+}
+
+div#contenu div.rightbox{
+	vertical-align: top;
+}
+
+h2.statique{
+	padding-left: 30px
+}
+
+p.difference{
+	padding-left: 40px;
+	font-size: 20px
+}
+
+h2.etape1{
+	color: #fff;
+	background-color:#000;
+	padding-left: 600px
+}
+
+p.textetape1{
+	margin-left: 10px;
+	font-size: 20px
+}
+
+p.liensublimetext{
+	margin-left: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+a{
+	text-decoration: none;
+	list-style-type: none;
+	color: #0165E8
+
+}
+
+h2.etape2{
+	
+	color: #fff;
+	background-color:#000;
+	padding-left: 600px
+}
+
+p.textetape2{
+	margin-left: 10px;
+	font-size: 20px;
+}
+
+img.image{
+	margin-left: 200px
+}
+
+img.capture1{
+	margin-left: 400px
+}
+
+img.capture2{
+	margin-left: 450px
+}
+
+h2.etape3{
+	
+	color: #fff;
+	background-color:#000;
+	padding-left: 600px
+}
+
+p.textetape3{
+	margin-left: 10px;
+	font-size: 20px;
+}
+
+img.capture3{
+	margin-left: 400px
+}
+
+img.capture4{
+	margin-left: 400px
+}
